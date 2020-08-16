@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Silgo 04.08.2020",
-    "currentPage": "page7.html",
+    "currentPage": "Fight-bacteria-and-viruses-safely-without-side-effects.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -4153,12 +4153,12 @@
         }
       ]
     },
-    "page7.html": {
+    "Fight-bacteria-and-viruses-safely-without-side-effects.html": {
       "settings": {
-        "meta_descr": "Site Creator Description",
-        "title": "Englisch Version",
+        "meta_descr": "Safe and effective way to fight infections without using antibiotics. No harmful side effects no risk of overdose. Gentle on the intestinal flora and much more. ",
+        "title": "No more fear of bacteria and viruses. ",
         "order": 1,
-        "header_custom": "<h1>Kill viruses and bacteria infections effectively</h1>\n<h2>safe and without side effects </h2>"
+        "header_custom": "<link rel=\"alternate\" hreflang=\"en-GB\" href=\"https://silgo.github.io/Fight-bacteria-and-viruses-safely-without-side-effects.html\"/>\n\n<h1>Kill viruses and bacteria infections effectively</h1>\n<h2>safe and without side effects </h2>"
       },
       "components": [
         {
